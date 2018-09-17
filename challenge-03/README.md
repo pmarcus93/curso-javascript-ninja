@@ -125,7 +125,6 @@ pessoa.fazerAniversario();
 pessoa.fazerAniversario();
 pessoa.fazerAniversario();
 
-
 /*
 Quantos anos a `pessoa` tem agora? (Use a instrução para responder e
 comentários inline ao lado da instrução para mostrar qual foi a resposta
@@ -151,7 +150,6 @@ pessoa.andando; //true
 /*
 Se a pessoa ainda está andando, faça-a parar.
 */
-?
 
 if (pessoa.andando) {
     pessoa.parar();
